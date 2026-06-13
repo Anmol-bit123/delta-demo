@@ -1,2 +1,2 @@
 # delta-demo
-This is the new git &amp; github
+This is the new git and github class.
